@@ -7,9 +7,9 @@
 body{background-color: rgba(44, 44, 190, 0.719);
 align-items: center;
 text-align: center;
-margin: 30px;
+margin: auto;
 color: aliceblue;
-padding: 20px;
+padding: auto;
 }
 
 .container{
