@@ -1,0 +1,51 @@
+@media screen and (min-width: 600px) and (max-width: 900px) 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{background-color: #2727ffb9;
+align-items: center;
+text-align: center;
+margin: auto;
+color: aliceblue;
+padding: auto;
+}
+
+.container{
+    color: black;
+    background-color: rgb(217, 227, 236);
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+    border-radius: 20px 200px 20px 20px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.192);
+    
+}
+
+h1{
+    padding: 20px;
+}
+
+p{  
+    font-weight: 200;
+    font-size: large;  
+}
+
+footer{
+    padding-top: 20px;
+    margin: auto;
+    text-align: center;
+}
+img{
+    padding: 1px;
+    border: 1px solid;
+    height: 250px;
+    width: 250px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.479);
+}
+ div{
+    font-weight: 200;
+    font-size: large; 
+ }
