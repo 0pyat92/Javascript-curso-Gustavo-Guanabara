@@ -1,3 +1,3 @@
-# javaScript curso Gustavo Guanabara
+# Javascript curso Gustavo Guanabara
 
  
